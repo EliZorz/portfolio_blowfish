@@ -1,0 +1,1 @@
+function _getDefaultPackeryOptions(){return{percentPosition:!0,gutter:5,resize:!0}}(function(){$(window).on("load",function(){let e=[],t=document.querySelectorAll(".gallery");t.forEach(t=>{e.push(packery)}),console.groupEnd()})})()

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Elisa Zorzella | Portfolio</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Elisa Zorzella | Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>ellie.art.storage@gmail.com (Elisa Zorzella)</managingEditor>
+    <webMaster>ellie.art.storage@gmail.com (Elisa Zorzella)</webMaster>
+    <copyright>© 2024 Elisa Zorzella</copyright>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>:white_flower: Blossoming Life :white_flower:</title>
+      <link>http://localhost:1313/projects/blossominglife/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>ellie.art.storage@gmail.com (Elisa Zorzella)</author>
+      <guid>http://localhost:1313/projects/blossominglife/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/blossominglife/featured.png" />
+    </item>
+    
+    <item>
+      <title>About Eli</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>ellie.art.storage@gmail.com (Elisa Zorzella)</author>
+      <guid>http://localhost:1313/about/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/about/featured_profilepic.JPG" />
+    </item>
+    
+    <item>
+      <title>Cinematography Studies</title>
+      <link>http://localhost:1313/visdev/cinema/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>ellie.art.storage@gmail.com (Elisa Zorzella)</author>
+      <guid>http://localhost:1313/visdev/cinema/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/visdev/cinema/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Global Artists In Action</title>
+      <link>http://localhost:1313/projects/gaia/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>ellie.art.storage@gmail.com (Elisa Zorzella)</author>
+      <guid>http://localhost:1313/projects/gaia/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/gaia/featured.png" />
+    </item>
+    
+    <item>
+      <title>Interiors</title>
+      <link>http://localhost:1313/visdev/interiors/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>ellie.art.storage@gmail.com (Elisa Zorzella)</author>
+      <guid>http://localhost:1313/visdev/interiors/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/visdev/interiors/featured.png" />
+    </item>
+    
+    <item>
+      <title>Personal art</title>
+      <link>http://localhost:1313/illustrations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>ellie.art.storage@gmail.com (Elisa Zorzella)</author>
+      <guid>http://localhost:1313/illustrations/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/illustrations/featured.png" />
+    </item>
+    
+    <item>
+      <title>Visual Development Portfolio</title>
+      <link>http://localhost:1313/visdev/portfolio/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>ellie.art.storage@gmail.com (Elisa Zorzella)</author>
+      <guid>http://localhost:1313/visdev/portfolio/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/visdev/portfolio/featured.png" />
+    </item>
+    
+  </channel>
+</rss>
